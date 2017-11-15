@@ -71,4 +71,4 @@ var MongoBins = (function () {
     return MongoBins;
 }());
 exports.MongoBins = MongoBins;
-//# sourceMappingURL=/Users/winfinit/workspace/personal/mongodb-prebuilt/mongo-bins.js.map
+//# sourceMappingURL=/tmp/mongodb-prebuilt/mongo-bins.js.map

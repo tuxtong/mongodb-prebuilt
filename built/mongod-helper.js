@@ -74,4 +74,4 @@ var MongodHelper = (function () {
     return MongodHelper;
 }());
 exports.MongodHelper = MongodHelper;
-//# sourceMappingURL=/Users/winfinit/workspace/personal/mongodb-prebuilt/mongod-helper.js.map
+//# sourceMappingURL=/tmp/mongodb-prebuilt/mongod-helper.js.map

@@ -51,4 +51,4 @@ var MongoSupervise = (function () {
     return MongoSupervise;
 }());
 exports.MongoSupervise = MongoSupervise;
-//# sourceMappingURL=/Users/winfinit/workspace/personal/mongodb-prebuilt/mongodb-supervise.js.map
+//# sourceMappingURL=/tmp/mongodb-prebuilt/mongodb-supervise.js.map
